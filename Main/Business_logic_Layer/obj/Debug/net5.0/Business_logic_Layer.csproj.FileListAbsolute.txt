@@ -1,0 +1,15 @@
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\obj\Debug\net5.0\Business_logic_Layer.csproj.AssemblyReference.cache
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\obj\Debug\net5.0\Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\obj\Debug\net5.0\Business_logic_Layer.AssemblyInfoInputs.cache
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\obj\Debug\net5.0\Business_logic_Layer.AssemblyInfo.cs
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\obj\Debug\net5.0\Business_logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\bin\Debug\net5.0\Business_logic_Layer.deps.json
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\bin\Debug\net5.0\Business_logic_Layer.dll
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\bin\Debug\net5.0\ref\Business_logic_Layer.dll
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\bin\Debug\net5.0\Business_logic_Layer.pdb
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\bin\Debug\net5.0\Data_Access_Layer.dll
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\bin\Debug\net5.0\Data_Access_Layer.pdb
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\obj\Debug\net5.0\Business_logic_Layer.csproj.CopyComplete
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\obj\Debug\net5.0\Business_logic_Layer.dll
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\obj\Debug\net5.0\ref\Business_logic_Layer.dll
+C:\Users\BS161\Desktop\WebApiWithAngular\Business_logic_Layer\obj\Debug\net5.0\Business_logic_Layer.pdb

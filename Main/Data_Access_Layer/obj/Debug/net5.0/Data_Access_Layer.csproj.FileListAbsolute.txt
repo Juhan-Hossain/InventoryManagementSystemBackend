@@ -1,0 +1,15 @@
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\bin\Debug\net5.0\Data_Access_Layer.deps.json
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\bin\Debug\net5.0\Data_Access_Layer.runtimeconfig.json
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\bin\Debug\net5.0\Data_Access_Layer.runtimeconfig.dev.json
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\bin\Debug\net5.0\Data_Access_Layer.dll
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\bin\Debug\net5.0\ref\Data_Access_Layer.dll
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\bin\Debug\net5.0\Data_Access_Layer.pdb
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\obj\Debug\net5.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\obj\Debug\net5.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\obj\Debug\net5.0\Data_Access_Layer.AssemblyInfo.cs
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\obj\Debug\net5.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\obj\Debug\net5.0\Data_Access_Layer.dll
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\obj\Debug\net5.0\ref\Data_Access_Layer.dll
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\obj\Debug\net5.0\Data_Access_Layer.pdb
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\obj\Debug\net5.0\Data_Access_Layer.genruntimeconfig.cache
+C:\Users\BS161\Desktop\WebApiWithAngular\Data_Access_Layer\obj\Debug\net5.0\Data_Access_Layer.csproj.AssemblyReference.cache
